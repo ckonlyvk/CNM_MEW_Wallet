@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#000000</color>
+    <color name="secondary">#18191b</color>
+    <color name="primary_icon">#ffffff</color>
+    <color name="secondary_icon">#8d8e92</color>
+    <color name="primary_text">#ffffff</color>
+    <color name="secondary_text">#999999</color>
+    <color name="purple">#925fe8</color>
+    <color name="purple_pastel">#decff8</color>
+    <color name="yellow">#f1b90c</color>
+    <color name="yellow_pastel">#faeab6</color>
+    <color name="blue">#05c0a5</color>
+    <color name="blue_pastel">#b4ece3</color>
+
+</resources>

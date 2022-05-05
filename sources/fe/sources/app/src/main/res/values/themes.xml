@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MEWWallet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Status bar color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorAccent">@color/primary_icon</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

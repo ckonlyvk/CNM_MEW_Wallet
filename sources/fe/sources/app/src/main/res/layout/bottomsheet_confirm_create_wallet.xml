@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/_8sdp"
+        android:background="@color/secondary">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="Generating your Ethereum address"
+            android:textColor="@color/secondary_text"
+            android:textSize="@dimen/_26ssp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:includeFontPadding="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="Encrypting your private key using your PIN"
+            android:textColor="@color/secondary_text"
+            android:textSize="@dimen/_26ssp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:includeFontPadding="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="Saving your encrypted keys to a local secure vault on this device"
+            android:textColor="@color/secondary_text"
+            android:textSize="@dimen/_26ssp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:includeFontPadding="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="All done!"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/_26ssp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:includeFontPadding="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="Your wallet is now ready"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/_26ssp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:includeFontPadding="false"/>
+
+        <TextView
+            android:id="@+id/button_create_wallet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_purple"
+            android:padding="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:text="START USING MEW WALLET"
+            android:textAllCaps="true"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/_15ssp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</layout>

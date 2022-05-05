@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MEW Wallet</string>
+    <string name="total_portfolio_value">Total portfolio value</string>
+    <string name="wallet">Wallet</string>
+    <string name="create_a_free_wallet">Create a Free Wallet</string>
+    <string name="banner_subtitle">You will need a wallet to buy and hold Ether, exchange tokens etc.</string>
+    <string name="already_have_a_wallet">Already have a Wallet?</string>
+    <string name="restore">Restore</string>
+    <string name="more_things">More things</string>
+    <string name="advanced_features">Advanced Features</string>
+    <string name="education_center">Education Center</string>
+    <string name="settings_and_support">Settings and support</string>
+    <string name="love_mew">Love MEW? Say thanks here</string>
+    <string name="about_app1">MyEtherWallet Inc. is an independent, self-funded company. We provide a free, open-source, client-side tool for interacting with the block chain</string>
+    <string name="about_app2">MEW wallet is a true, non-custodial Ethereum wallet. This means that you and only you have access to your funds.</string>
+    <string name="my_main_account">My account</string>
+
+    <plurals name="number_coin">
+        <item quantity="zero">%s Coin</item>
+        <item quantity="one">%s Coin</item>
+        <item quantity="other">%s Coins</item>
+    </plurals>
+
+    <string name="ratio">%d $ = %s Coins</string>
+    <string name="hex">0x%s</string>
+</resources>
